@@ -1,23 +1,20 @@
 body {
-    font-family: 'Mako', sans-serif;
-    font-size: 16px;
-    margin: 0 auto;
-    max-width: 950px;
+    font-family: 'Courier', sans-serif;
+    font-size: 14px;
     line-height: 1.5;
     padding-top: 32px;
     padding-bottom: 32px;
 }
 
 img {
-    margin-top: 50px;
-    width: 300px;
-    height: 300px;
-    border-radius: 150px;
-    box-shadow: 3px 3px 15px 10px #808080;
+    margin-top: 85px;
+    width: 350px;
+    height: 350px;
+    border-radius: 100px;
+    box-shadow: 3px 3px 15px 10px #ea4343;
 }
 
 .box {
-    justify-content: space-between;
     display: flex;
     margin: auto;
     margin-bottom: 2px;
@@ -25,8 +22,8 @@ img {
 
 .title-box {
     width: 30%;
-    background-color: #ebdaf3;
-    margin-right: 20px;
+    background-color: #c97be8;
+    margin-right: 30px;
 }
 
 .descripion-box {
@@ -36,7 +33,7 @@ img {
 
 
 p {
-    line-height: 0.8em;
+    line-height: 1.5em;
 }
 
 h1 {

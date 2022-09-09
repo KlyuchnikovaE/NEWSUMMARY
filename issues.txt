@@ -1,0 +1,5 @@
+в репозиторий надо добавлять README.md и .gitignore
+
+- https://validator.w3.org/nu/#textarea
+выдаёт ошибки на html разметку
+
